@@ -1,0 +1,12 @@
+ALIAS ------,SCRIPT --------,DESCRIPCIÓN -----------------------
+task,tasks.sh,tareas básicas de desarrollo
+todo,alpha_tareas.sh,lista básica de tareas pendientes
+GIT,GIT_manager.sh,gestor de tareas de git
+DJ,DJ_manager.sh,gestor de proyectos django
+titulo,titulo.py,formateador de títulos para código
+editar,file_open.sh,lanzador de archivos para editar
+exam,lsd -1X,expande la carpeta
+phone,scrcpy,conexión de teléfono en pc 
+scripts,cd scripts,ir a carpeta script
+recargar,source ~/.zshrc, recargar configuración zsh
+chat,chat.sh,app de chat IA
